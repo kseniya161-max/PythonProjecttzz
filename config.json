@@ -1,0 +1,13 @@
+{
+  "dimensions": {
+    "L": 60,
+    "L2": 20,
+    "D1": 24,
+    "D2": 36,
+    "d": 12,
+    "C": 2
+  },
+  "output": {
+    "step_path": "output/model.step"
+  }
+}
