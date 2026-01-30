@@ -7,7 +7,13 @@
     "d": 12,
     "C": 2
   },
+  "material": {
+    "name": "Copper M1",
+    "density": 8940,
+    "price_per_kg": 1421
+  },
   "output": {
-    "step_path": "output/model.step"
+    "step_path": "output/model.step",
+    "report_path": "output/report.json"
   }
 }
